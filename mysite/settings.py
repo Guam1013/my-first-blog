@@ -25,7 +25,7 @@ SECRET_KEY = '0=z#ifdgmw%54lwiq-l-u4km9!*_f@f6q9zjqdtevn%&ssqe5u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<GWCUser43>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'madeleinec.pythonanywhere.com']
 
 
 # Application definition
